@@ -42,65 +42,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+> **Market Overview**: The SaaS Security Posture Management (SSPM) and SaaS Application Integration sector is estimated at **$1.5 Billion to $2.5 Billion** (projected to reach $8+ Billion by 2030 at ~30% CAGR). The sector is currently **highly fragmented**, featuring active competition between cloud hyperscalers (AWS AppFabric), IAM providers (Okta), specialized SSPM startups (Obsidian, AppOmni, Grip), and cybersecurity platform consolidators (CrowdStrike acquiring Adaptive Shield).
 
-
-- **[AWS AppFabric](https://aws.amazon.com/appfabric/)**  
-
-  **AWS's SaaS application integration service** — connects SaaS apps for unified security and productivity insights . **Normalizes audit logs** from SaaS applications into OCSF format . **Best for AWS-centric SaaS security** .
-
-
-
-- **[Okta Workflows](https://www.okta.com/)**  
-
-  **Identity automation platform** — no-code workflows for SaaS lifecycle management . **Best for Okta identity users** .
-
-
-
-- **[DoControl](https://www.docontrol.io/)**  
-
-  **SaaS security platform** — data access governance, threat detection, and automated remediation . **Best for SaaS data protection** .
-
-
-
-- **[AppOmni](https://appomni.com/)**  
-
-  **SaaS security posture management (SSPM)** — continuous monitoring and configuration assessment . **Best for enterprise SaaS security** .
-
-
-
-- **[Wing Security](https://www.wing.security/)**  
-
-  **SaaS security platform** — discovery, posture management, and shadow IT detection . **Best for SaaS security automation** .
-
-
-
-- **[Obsidian Security](https://www.obsidiansecurity.com/)**  
-
-  **SaaS security posture management** — threat detection and compliance for SaaS . **Best for enterprise SaaS security** .
-
-
-
-- **[Adaptive Shield](https://www.adaptiveshield.com/)**  
-
-  **SaaS security posture management** — misconfiguration detection and remediation . **Best for SSPM** .
-
-
-
-- **[Grip Security](https://www.grip.security/)**  
-
-  **SaaS identity and access management** — discovery and governance for SaaS apps . **Best for SaaS identity governance** .
-
-
-
-- **[Torii](https://www.toriihq.com/)**  
-
-  **SaaS management platform** — discovery, management, and optimization of SaaS applications . **Best for SaaS spend and security** .
-
-
-
-- **[BetterCloud](https://www.bettercloud.com/)**  
-
-  **SaaS operations platform** — automation and security for SaaS applications . **Best for SaaS workflow automation** .
+| Platform / Vendor | Core Focus & Description | Company Size (Valuation / Revenue) | Starting Tier Pricing | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[AWS AppFabric](https://aws.amazon.com/appfabric/)** | **AWS SaaS application integration service** — connects SaaS apps for unified security & productivity insights, normalizing audit logs into OCSF format. | **$150B+ AWS Annual Revenue** ($2.0T+ Amazon Market Cap) | **$3.00 / user / month** (base security features across connected SaaS apps, up to 30 apps) | **First 2 connected apps free** for the first 30 days |
+| **[Okta Workflows](https://www.okta.com/)** | **Identity automation platform** — no-code workflows for SaaS lifecycle management and security orchestration. | **$3.2B Annual Revenue** ($14B Market Cap) | **$6.00 / user / month** (Okta Starter Suite, includes 5 active workflows) | **30-day free trial** for Workforce Identity suite; free developer plan |
+| **[Obsidian Security](https://www.obsidiansecurity.com/)** | **SaaS security posture management** — continuous threat detection, identity security, and compliance enforcement. | **$1.1B Valuation** (Series D, Aug 2026; ~$25M ARR) | **$6.00 / user / month** ($72/user/year base tier) | **Forever-free tier** for up to 1,000 users (app discovery & spear-phishing detection) |
+| **[Adaptive Shield](https://www.adaptiveshield.com/)** | **SaaS security posture management** — misconfiguration detection, identity governance, and automated remediation (acquired by CrowdStrike). | **$300M Acquisition Valuation** ($80B+ CrowdStrike Market Cap; ~$14M ARR) | **$15,000 / year** (~$5.00/user/month base subscription tier) | **14-day guided free risk assessment** trial (scans up to 5 SaaS apps) |
+| **[BetterCloud](https://www.bettercloud.com/)** | **SaaS operations & security platform** — multi-SaaS management, data loss prevention, and lifecycle automation. | **$150M+ Estimated Valuation** ($67M ARR; acquired by Vista Equity) | **$55.00 / month** (or $3.00/user/month for Google Workspace module) | **21-day free trial** (covers File Governance & SaaS user management modules) |
+| **[AppOmni](https://appomni.com/)** | **SaaS security posture management (SSPM)** — continuous configuration assessment and data access control. | **$123M Total Funding** ($35.7M ARR; Series C led by Thoma Bravo) | **$7,500 / year** AWS Marketplace starting tier (~$6.00/user/month) | **14-day free trial** / interactive demo assessment via AWS Marketplace |
+| **[DoControl](https://www.docontrol.io/)** | **SaaS data security platform** — data access governance, threat detection, and automated remediation workflows. | **$100M Estimated Valuation** ($10.8M ARR; $43.4M total funding) | **$12,000 / year** base tier (~$4.00/user/month starting plan) | **Free Self-Service SaaS Risk Assessment** (scans M365/Google exposure, unlimited time) |
+| **[Torii](https://www.toriihq.com/)** | **SaaS management platform** — automated shadow IT discovery, spend optimization, and app access governance. | **$65M Total Funding** ($15M ARR; Series B led by Tiger Global) | **$3.50 / user / month** ($5,000/year base tier) | **14-day free trial** (full access to SaaS discovery, workflows & spend analytics) |
+| **[Grip Security](https://www.grip.security/)** | **SaaS identity & access management** — identity-first SaaS discovery, shadow AI monitoring, and access governance. | **$66M Total Funding** ($10M ARR; Series B led by Third Point Ventures) | **$8.00 / user / month** (SMB starting tier for up to 1,000 employees) | **Free Shadow AI & SaaS Risk Assessment** (custom exposure report & 1-week scan) |
+| **[Wing Security](https://www.wing.security/)** | **SaaS security platform** — shadow IT discovery, SSPM, app-to-app permission governance, and threat remediation. | **$26M Total Funding** ($3.7M ARR; Series A led by GGV Capital) | **$4.00 / user / month** (Professional starting tier) | **Forever-free tier** ("Free Discovery" plan with unlimited user & app discovery) |
 
 
 
